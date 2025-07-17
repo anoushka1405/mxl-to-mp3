@@ -54,8 +54,6 @@ mxl-to-mp3-converter/
 ├── README.md             
 ├── LICENSE               
 ├── .gitignore            
-├── demo/                
-│   └── sample.mxl
 ├── screenshots/          
 │   └── ui.png
 ```

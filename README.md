@@ -58,8 +58,9 @@ mxl-to-mp3-converter/
 │   └── ui.png
 ```
 ### 📸 Screenshots
-<img width="1142" height="725" alt="Screenshot 2025-07-17 at 5 13 04 PM" src="https://github.com/user-attachments/assets/178b7141-d8a4-42a2-b707-f40874e25732" />
-<img width="1208" height="710" alt="Screenshot 2025-07-17 at 5 13 35 PM" src="https://github.com/user-attachments/assets/35a5b5bf-043b-44fb-9a55-986f7c120496" />
+
+![Screenshot 1](demo/upload%20file.png)  
+![Screenshot 2](demo/mp3%20produced.png)
 
 
 ### 🎧 Demo Output

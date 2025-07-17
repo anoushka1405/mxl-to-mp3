@@ -49,16 +49,15 @@ The .mp3 will be saved in the same directory as the .mxl
 📂 Project Structure
 ```bash
 mxl-to-mp3-converter/
-├── main.py                  # GUI logic (Tkinter)
-├── converter.py             # MuseScore command integration
-├── utils.py                 # Helper functions
-├── requirements.txt         # Python dependencies
-├── demo/
-│   ├── sample.mxl
-│   └── output.mp3
-└── screenshots/
-    ├── ui.png
-    └── result.png
+├── mxl-to-mp3-converter.py                
+├── config.json          
+├── README.md             
+├── LICENSE               
+├── .gitignore            
+├── demo/                
+│   └── sample.mxl
+├── screenshots/          
+│   └── ui.png
 ```
 ### 📸 Screenshots
 <img width="1142" height="725" alt="Screenshot 2025-07-17 at 5 13 04 PM" src="https://github.com/user-attachments/assets/178b7141-d8a4-42a2-b707-f40874e25732" />
